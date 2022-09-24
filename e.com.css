@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: whitesmoke;
+    width: 100%;
+}
+.topp {
+    font-size: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    gap: 25px;
+    color: grey;
+}
+.kids {
+    font-size: 25px;
+    padding: 0 20px;
+    position: absolute;
+    left: 10px;
+    color: black;
+}
+.menu {
+    font-size: 30px;
+    position: relative;
+    left: 350px;
+    
+}
+
+.h1 {
+    padding: 30px;
+    font-size: 45px;
+    color: #ed9213;  
+    background: rgb(78,48,79);
+background: linear-gradient(90deg, rgba(78,48,79,0.9419117988992471) 0%, rgba(253,29,53,1) 50%, rgba(6,6,6,1) 100%);
+
+}
+.baby {
+    padding: 32px;
+    font-size: 40px;
+    font-weight: lighter;
+    position: absolute;
+    top:125px;
+
+}
+
+.nav {
+    font-size: 18px;
+    padding: 20px;  
+    padding-left: 90px;
+    display: flex;
+    align-items: flex-start;
+    justify-content:flex-start;
+    gap: 40px;
+    color: grey;
+}
+
+.bag {
+    font-size: 25px;
+    position: absolute;
+    right: 180px;
+}
+.search {
+    font-size: 25px;
+    position: absolute;
+    right: 120px;
+}
+
+.line {
+    width: 90%;
+    padding:1px;
+    margin-left: 70px;
+    margin-top: -10px;
+    background-color: grey;
+}
+#hero {
+    display: flex;
+    width: 100vw;
+    height: 65vh;
+
+}
+    
+.left {
+    font-size: 18px;
+    width: 25%;
+    background-color:#f4f2f4;
+    padding: 30px;
+    
+}
+
+.list {
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: space-between;
+    gap: 25px;
+
+}
+
+.more {
+    position: absolute;
+    bottom: 20px;
+}
+.right {
+    display:flex;
+    justify-content:start;
+    align-items:stretch;
+    gap: 20px;
+    width: 80%;
+    background-color: #ffffff;
+}
+
+.box {
+    width: 250px;
+    height: 70%;
+    background-color: #dfc4ce;
+    border-radius: 15px;
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+.etrc {
+    background-color: lightskyblue;
+}
+.box-3 {
+    background-color: transparent;
+}
+.box-4 {
+    background-color: aqua;
+}
+
+.shoe {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    color: tomato;
+}
+.frock {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    color: dodgerblue;
+}
+.dress {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    color: gold ;
+}
+.suit {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    color:tomato;
+    font-weight: bold   ;
+}
+.small {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 30px;
+}
+
+.rate {
+    padding: 20px;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 40px;
+}
+.linew {
+    text-decoration: line-through;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.add {
+    color: tomato;
+    padding: 20px;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    position: absolute;
+    bottom: -5px;
+}
+
+.hrt {
+    font-size: 20px;
+    position: absolute;
+    left: 190px;
+    bottom:18px;
+}
+
+.red {
+    color: red;
+    position: relative;
+    bottom: -30px;
+    right: 25px;
+}
+
